@@ -27,20 +27,6 @@ This repository contains code and models for a **Generative AI-based Stock Marke
 - **Deep Learning** (LSTM, CNN, GAN-based models)
 - **Data Visualization** (Matplotlib, Seaborn, Plotly)
 
-## 🔧 Setup Instructions
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/dheeraj5988/stock-market-gen-ai.git
-   cd stock-market-gen-ai
-   ```
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the main file**:
-   ```bash
-   python gen_ai_stock_market.py
-   ```
 
 ## 📊 Dataset
 The dataset used for training models is available in the **`data/`** folder.
@@ -56,5 +42,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
 
 
